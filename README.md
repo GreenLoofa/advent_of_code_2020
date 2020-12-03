@@ -2,7 +2,7 @@
 
 This is my attempt at the advent of code problems while simaltaneously learning Go.
 
-To Run Solutions:
+To Run Solutions: 
 
 ```bash
 cd day1
